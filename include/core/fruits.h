@@ -1,0 +1,3 @@
+/* fruits.h 
+    * Définit les fruits, apparition, disparition, types de fruits...
+*/
