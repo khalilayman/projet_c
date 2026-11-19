@@ -2,6 +2,10 @@
 
 Un jeu Snake en C avec des graphismes variés, plusieurs terrains, des modes de difficulté et un système de score.
 
+# **Créateur**
+
+Leduc Gabriel et Ayman Khalil
+
 ## **Le jeu**
 
 Un Snake classique mais revisité : choisissez votre terrain, votre difficulté, et essayez de battre votre meilleur score.
